@@ -101,10 +101,10 @@ endmodule
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 i] DownCounter
-![image](https://github.com/NathinR/Exp-7-Synchornous-counters-/assets/118679646/15e4525a-7e20-472d-bf20-74b20560aed3)
+![image](https://github.com/NathinR/Exp-7-Synchornous-counters-/assets/118679646/aff5f091-be9d-4351-a0cd-54494377662c)
 
 ii] UpCounter
-![image](https://github.com/NathinR/Exp-7-Synchornous-counters-/assets/118679646/2ed59e68-dcba-434f-afc9-034f57b9b005)
+![image](https://github.com/NathinR/Exp-7-Synchornous-counters-/assets/118679646/63607f80-f85a-461f-99c6-1503fae37213)
 
 ### TIMING DIGRAMS FOR COUNTER  
 i] DownCounter
